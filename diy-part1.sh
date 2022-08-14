@@ -76,7 +76,9 @@ git clone https://github.com/fw876/helloworld.git package/helloworld
 git clone https://github.com/vernesong/OpenClash.git package/OpenClash
 
 #luci-app-adguardhome
-git clone https://github.com/rufengsuixing/luci-app-adguardhome.git package/luci-app-adguardhome
+#git clone https://github.com/rufengsuixing/luci-app-adguardhome.git package/luci-app-adguardhome
+git clone  https://github.com/hongtao008/OpenWrt-luci-app-adguardhome.git
+####cp package/luci-app-adguardhome/root/usr/share/AdGuardHome/AdGuardHome_template.yaml package/luci-app-adguardhome/root/etc/AdGuardHome.yaml
 
 ##############################################################################################
 
